@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.46b97cac.css",
-    "main.js": "/static/js/main.c72fc484.js",
-    "static/media/cursed.jpg": "/static/media/cursed.cd8e74a3e9f84d30c9cc.jpg",
+    "main.css": "/static/css/main.db0dd93a.css",
+    "main.js": "/static/js/main.d29f9c1d.js",
+    "static/media/toronto.jpg": "/static/media/toronto.697a9dee7f1a5a67bb6d.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/ThanusunResume.pdf": "/static/media/ThanusunResume.c492fe2f77feda4d153d.pdf",
+    "static/media/netcon.jpg": "/static/media/netcon.d5731538e63773ef5791.jpg",
+    "static/media/orderup.jpg": "/static/media/orderup.30ddc7244ac6a9a9147f.jpg",
+    "static/media/preemptorai.jpg": "/static/media/preemptorai.c59d7e2d0a201144c94a.jpg",
+    "static/media/htv.jpg": "/static/media/htv.66b192cc55f825558766.jpg",
+    "static/media/houseparty.jpg": "/static/media/houseparty.823be355af845979084c.jpg",
     "index.html": "/index.html",
-    "main.46b97cac.css.map": "/static/css/main.46b97cac.css.map",
-    "main.c72fc484.js.map": "/static/js/main.c72fc484.js.map"
+    "main.db0dd93a.css.map": "/static/css/main.db0dd93a.css.map",
+    "main.d29f9c1d.js.map": "/static/js/main.d29f9c1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.46b97cac.css",
-    "static/js/main.c72fc484.js"
+    "static/css/main.db0dd93a.css",
+    "static/js/main.d29f9c1d.js"
   ]
 }
