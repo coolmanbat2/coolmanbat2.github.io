@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd897b66.chunk.css",
-    "main.js": "/static/js/main.f0539efe.chunk.js",
-    "main.js.map": "/static/js/main.f0539efe.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.b17c8cf2.js",
-    "runtime~main.js.map": "/static/js/runtime~main.b17c8cf2.js.map",
-    "static/js/2.d07d6413.chunk.js": "/static/js/2.d07d6413.chunk.js",
-    "static/js/2.d07d6413.chunk.js.map": "/static/js/2.d07d6413.chunk.js.map",
-    "static/js/3.ef576390.chunk.js": "/static/js/3.ef576390.chunk.js",
-    "static/js/3.ef576390.chunk.js.map": "/static/js/3.ef576390.chunk.js.map",
+    "main.css": "/static/css/main.46b97cac.css",
+    "main.js": "/static/js/main.c72fc484.js",
+    "static/media/cursed.jpg": "/static/media/cursed.cd8e74a3e9f84d30c9cc.jpg",
     "index.html": "/index.html",
-    "precache-manifest.c3663b989a9f295b05024fd0a8f26793.js": "/precache-manifest.c3663b989a9f295b05024fd0a8f26793.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.cd897b66.chunk.css.map": "/static/css/main.cd897b66.chunk.css.map"
-  }
+    "main.46b97cac.css.map": "/static/css/main.46b97cac.css.map",
+    "main.c72fc484.js.map": "/static/js/main.c72fc484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b97cac.css",
+    "static/js/main.c72fc484.js"
+  ]
 }
