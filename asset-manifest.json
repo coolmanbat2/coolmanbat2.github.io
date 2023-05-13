@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46b97cac.css",
+    "main.js": "/static/js/main.c72fc484.js",
+    "static/media/cursed.jpg": "/static/media/cursed.cd8e74a3e9f84d30c9cc.jpg",
+    "index.html": "/index.html",
+    "main.46b97cac.css.map": "/static/css/main.46b97cac.css.map",
+    "main.c72fc484.js.map": "/static/js/main.c72fc484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b97cac.css",
+    "static/js/main.c72fc484.js"
+  ]
+}
